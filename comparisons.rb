@@ -47,7 +47,7 @@ p "is number_students less than or equal to 20?", number_students <= 20
 
 # YOU DO: print the result of the comparison: is number_students less than or equal to 21?
 # this should print: true
-p "is number_students less than or equal to 21?", number_students <== 21
+p "is number_students less than or equal to 21?", number_students <= 21
 
 
 #-------------------
