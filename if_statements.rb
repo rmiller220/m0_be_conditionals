@@ -63,10 +63,10 @@ end
 # Experiment with manipulating the value held within both variables
 # to make sure all above conditions output what you expect.
 
-cups_of_flour = 5
-has_sauce = false
+cups_of_flour = 1
+has_sauce = true
 
-if cups_of_flour < 2 and has_sauce
+if cups_of_flour < 2 && has_sauce
 p "I cannot make pizza"
 
 elsif cups_of_flour >= 2 and has_sauce
