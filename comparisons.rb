@@ -66,6 +66,7 @@ p "this will print whether or not 4 is less than 9, which it is, so it should pr
 books = 3
 puts 4 < books
 # YOU DO: Explain.
+p "this assigns books to the integer 3. Then it does a comparison which asks if 4 is less than the number of books, which it is not. So the result should print false"
 
 friends = 6
 siblings = 2
