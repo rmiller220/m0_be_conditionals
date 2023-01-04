@@ -72,7 +72,7 @@ friends = 6
 siblings = 2
 puts friends > siblings
 # YOU DO: Explain.
-p "This assigns friends to the integer 6, and siblings to integer 2. Then it will print the answer to the comparison, is friends > siblings. The answer will be true"
+p "This assigns friends to the integer 6, and siblings to integer 2. Then it will print the answer to the comparison, is friends greater than siblings. The answer will be true"
 
 attendees = 9
 meals = 8
