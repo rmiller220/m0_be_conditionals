@@ -68,16 +68,7 @@ has_sauce = true
 
 if cups_of_flour < 2 && has_sauce
 p "I cannot make pizza"
-end
 
-cups_of_flour = 5
-has_sauce = false
-if cups_of_flour < 2 && has_sauce
-  p "I cannot make pizza"
-end
-
-cups_of_flour = 2 
-has_sauce = true
-if cups_of_flour > 2 && has_sauce
-  p "I can make piza"
+elsif cups_of_flour >= 2 && has_sauce
+  p "I can make pizza"
 end
