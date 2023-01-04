@@ -100,10 +100,10 @@ age = 1
 
 # YOU DO:
 # Determine if the dog loves to play and loves treats
-p loves_to_play and loves_treats
+p loves_to_play && loves_treats
 
 # Determine if the dog loves to play and loves the dog park
-p loves_to_play and loves_dog_park
+p loves_to_play && loves_dog_park
 
 # Determine if the dog loves to play or loves the dog park
 
