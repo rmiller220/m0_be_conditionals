@@ -106,7 +106,7 @@ p loves_to_play && loves_treats
 p loves_to_play && loves_dog_park
 
 # Determine if the dog loves to play or loves the dog park
-
+p loves_to_play || loves_dog_park
 
 # Determine if the dog loves to play and is a puppy
 
