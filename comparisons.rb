@@ -78,7 +78,7 @@ attendees = 9
 meals = 8
 puts attendees != meals
 # YOU DO: Explain.
-
+p "This assigns attendees to the integer 9 and meals to the integer 8. Then it will print the answer to the comparison, is attendees not equal to meals. The answer will be true"
 
 #-------------------
 # PART 3: Logical Operators
