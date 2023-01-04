@@ -113,3 +113,4 @@ p loves_to_play && age <=1
 
 # What did your final line of code evaluate to? Why do you think that is? Explain.
 # ANSWER:
+p "I got the answer is true becasuse the statement loves-to-play was true, and i created a comparison for the age. if it was less than or equal to 1, then the dog would still be considered a puppy. Since both statements are true, the result prints true"
