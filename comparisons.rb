@@ -61,6 +61,7 @@ p "is number_students less than or equal to 21?", number_students <= 21
 
 puts 4 < 9
 #YOU DO: Explain.
+p "this will print whether or not 4 is less than 9, which it is, so it should print out true"
 
 books = 3
 puts 4 < books
